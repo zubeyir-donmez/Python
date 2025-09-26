@@ -1,0 +1,1 @@
+Kendimi geliştirmek için olsun yaptığım projelerde gerektiği için yapılan dönüşümler, hesaplamalar, görselleştirmeler olsun ihtiyacımı görecek küçük kodlamalar mevcuttur. Büyük projeleri özelde tutuyorum iş alımı için kontrol ediyorsanız ve görmek isterseniz haber ederseniz sevinirim. iyi çalışmalar
